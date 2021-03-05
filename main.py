@@ -12,6 +12,9 @@ cursor.execute("""CREATE TABLE contacts (
         email text
     )""")
 
+
+
 con.commit()
+print('Data added successfully!')
 
 con.close()

@@ -12,6 +12,7 @@ Address book which stores contact details via a SQLite database.
 
 Currently looking into the following:
 
+- Ability for user to input/fetch data
 - GUI
 
 ### Contributors 
